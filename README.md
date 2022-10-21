@@ -1,5 +1,8 @@
 # rdeditor
-Simple RDKit molecule editor GUI using PySide2
+Simple RDKit molecule editor GUI using PyQt5
+
+This is forked from https://github.com/EBjerrum/rdeditor, and uses PyQt5 instead of PySide2.
+
 ![rdeditor, the RDKit molecule editor](./Screenshots/Main_window.png)
 
 ## Installation
